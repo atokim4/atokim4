@@ -14,6 +14,8 @@ Source-code starters and templates I made myself, sold on Gumroad:
 - [React Native Expense Tracker App Template (Expo + SQLite)](https://sunnatulladev.gumroad.com/l/react-native-expense-tracker): offline budgets, charts, recurring items and multi-currency for iOS, Android and web.
 - [Tailwind CSS Landing Page Templates: 10 HTML Pages](https://sunnatulladev.gumroad.com/l/tailwind-landing-pages-html): ten one-page sites in plain HTML with dark mode and 12 colour palettes.
 - [Claude Code Freelance OS](https://sunnatulladev.gumroad.com/l/claude-code-freelance-os): Claude Code skills and slash commands for job triage, proposals, quotes and delivery handoffs.
+- [AI Telegram Bot in Python: OpenAI + Claude, Stars Plans](https://sunnatulladev.gumroad.com/l/telegram-ai-assistant-bot): an AI assistant bot on your own API keys with chat memory, voice messages, Telegram Stars plans and an admin panel in the chat.
+- [Claude Code & Cursor Rules for Next.js, Supabase & Stripe](https://sunnatulladev.gumroad.com/l/vibe-app-production-kit): rules, 5 Claude Code skills and a small CLI that checks Supabase RLS, keys and Stripe webhooks in your code.
 
 ## Personal projects (open source)
 
