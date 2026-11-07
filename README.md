@@ -1,5 +1,3 @@
-# Hi, I'm Sunnatulla
-
 Web and mobile developer from Tashkent, Uzbekistan (UTC+5). I work with React, Vue, Next.js, Nuxt, Node.js, PHP/MySQL, Flutter, React Native and Python Telegram bots.
 
 ## Digital products I built and sell
