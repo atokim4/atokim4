@@ -21,5 +21,3 @@ Source-code starters and templates I made myself, sold on Gumroad:
 
 - [ticket-triage](https://github.com/atokim4/ticket-triage): AI support inbox in Next.js, TypeScript and PostgreSQL. Demo: https://sunnatulla-ticket-triage.netlify.app
 - [nuxt-php-dashboard](https://github.com/atokim4/nuxt-php-dashboard): inventory & orders dashboard, Nuxt 3 + PHP 8 + MySQL. Demo: https://sunnatulla-inventory-dashboard.netlify.app
-
-Hire me on Upwork: https://www.upwork.com/freelancers/~01863728f2ee7efc87
